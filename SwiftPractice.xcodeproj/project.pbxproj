@@ -1,0 +1,106 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		990E450A1E25BE7000E17C44 /* BinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinaryTree.playground; sourceTree = "<group>"; };
+		99140A901E1C232E0066DE89 /* FizzBuzz.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FizzBuzz.playground; sourceTree = "<group>"; };
+		99140A911E1CCC710066DE89 /* BinarySearchTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinarySearchTree.playground; sourceTree = "<group>"; };
+		995E48CC1DFA2D14007F09BA /* BinarySearch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BinarySearch.playground; sourceTree = "<group>"; };
+		995E48CD1DFA3273007F09BA /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; };
+		997265141E1DCA8100395C63 /* LinearTime.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinearTime.playground; sourceTree = "<group>"; };
+		997265151E1DD29A00395C63 /* Palindromes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Palindromes.playground; sourceTree = "<group>"; };
+		999855741DEA002000EC1689 /* Classes&Struct.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Classes&Struct.playground"; sourceTree = "<group>"; };
+		999855781DEA002000EC1689 /* Trie.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Trie.playground; sourceTree = "<group>"; };
+		999855791DEA002000EC1689 /* HashTable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = HashTable.playground; sourceTree = "<group>"; };
+		9998557A1DEA002000EC1689 /* LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinkedList.playground; sourceTree = "<group>"; };
+		9998557B1DEA002000EC1689 /* NSURLSession.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NSURLSession.playground; sourceTree = "<group>"; };
+		9998557D1DEA002000EC1689 /* Play.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Play.playground; sourceTree = "<group>"; };
+		9998557F1DEA002000EC1689 /* Problems.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Problems.playground; sourceTree = "<group>"; };
+		999855801DEA002000EC1689 /* Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Properties.playground; sourceTree = "<group>"; };
+		999855811DEA002000EC1689 /* Recursion.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Recursion.playground; sourceTree = "<group>"; };
+		99F6056F1E200F57009FB6F9 /* InsertionSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InsertionSort.playground; sourceTree = "<group>"; };
+		99F605701E2028F6009FB6F9 /* BubbleSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BubbleSort.playground; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		9998556C1DE9FF6C00EC1689 = {
+			isa = PBXGroup;
+			children = (
+				99F605701E2028F6009FB6F9 /* BubbleSort.playground */,
+				99F6056F1E200F57009FB6F9 /* InsertionSort.playground */,
+				997265151E1DD29A00395C63 /* Palindromes.playground */,
+				990E450A1E25BE7000E17C44 /* BinaryTree.playground */,
+				995E48CC1DFA2D14007F09BA /* BinarySearch.playground */,
+				99140A911E1CCC710066DE89 /* BinarySearchTree.playground */,
+				9998557A1DEA002000EC1689 /* LinkedList.playground */,
+				99140A901E1C232E0066DE89 /* FizzBuzz.playground */,
+				997265141E1DCA8100395C63 /* LinearTime.playground */,
+				995E48CD1DFA3273007F09BA /* MergeSort.playground */,
+				999855741DEA002000EC1689 /* Classes&Struct.playground */,
+				999855781DEA002000EC1689 /* Trie.playground */,
+				999855791DEA002000EC1689 /* HashTable.playground */,
+				9998557B1DEA002000EC1689 /* NSURLSession.playground */,
+				9998557D1DEA002000EC1689 /* Play.playground */,
+				9998557F1DEA002000EC1689 /* Problems.playground */,
+				999855801DEA002000EC1689 /* Properties.playground */,
+				999855811DEA002000EC1689 /* Recursion.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		9998556D1DE9FF6C00EC1689 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+			};
+			buildConfigurationList = 999855701DE9FF6C00EC1689 /* Build configuration list for PBXProject "SwiftPractice" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 9998556C1DE9FF6C00EC1689;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		999855711DE9FF6C00EC1689 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		999855721DE9FF6C00EC1689 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		999855701DE9FF6C00EC1689 /* Build configuration list for PBXProject "SwiftPractice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				999855711DE9FF6C00EC1689 /* Debug */,
+				999855721DE9FF6C00EC1689 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9998556D1DE9FF6C00EC1689 /* Project object */;
+}

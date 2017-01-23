@@ -99,3 +99,19 @@ func fizzbuzz(fizz: [Int]) {
     }
 }
 
+
+func fizzbuzze(arrays: [Int]) {
+    
+    for array in arrays {
+        switch array {
+        case array where (array % 3 == 0) && (array % 5 == 0):
+            print("fizz")
+        case array where array % 3 == 0:
+            print("buzz")
+        case array where array % 5 == 0:
+            print("fizzbuzz")
+        default:
+            print(array)
+        }
+    }
+}
